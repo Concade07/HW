@@ -1,6 +1,3 @@
 Hello WORLD!
 
-This is me today!
-
-
-Me yesterday!
+This is me.
